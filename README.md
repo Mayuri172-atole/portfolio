@@ -20,5 +20,5 @@ It showcases my skills, education, projects, and achievements as an aspiring Sof
 - Font Awesome icons
 
 ## Live Demo
-
+link: https://mayuri172-atole.github.io/portfolio/
 Hosted using GitHub Pages.
